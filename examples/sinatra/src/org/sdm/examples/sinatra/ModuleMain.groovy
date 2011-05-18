@@ -1,6 +1,6 @@
 package org.sdm.examples.sinatra;
 
-require 'org.sdm:sinatra:0.1-SNAPSHOT'
+require 'org.sdm:sdm-sinatra:0.1-SNAPSHOT'
 
 get '/hi', {
     "Hello World!"
@@ -20,7 +20,5 @@ sinatra {
 
 println 'started.....' 
 
-def stop() {
-	webapp.stop()
-}
+
 
