@@ -8,7 +8,7 @@
    </parent>
 
    <groupId>org.sdm.examples</groupId>
-   <artifactId>sdm-sinatra-examples-parent</artifactId>
+   <artifactId>sdm-examples-sinatra-parent</artifactId>
    <version>0.1-SNAPSHOT</version>
    <packaging>pom</packaging>
 

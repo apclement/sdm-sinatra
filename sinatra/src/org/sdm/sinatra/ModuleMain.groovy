@@ -13,7 +13,7 @@ def onModuleStarting(ctx) {
 def onRequire(ctx) {
 	def object = ctx.requiringObject
 	
-	object.require "org.sdm:http:$SDM_VERSION"
+	object.require "org.sdm:sdm-http:$SDM_VERSION"
     object.metaClass.mixin SinatraMixin
 	object.orgSdmSinatraConfigure()
 }
