@@ -8,7 +8,7 @@ The SDM module is based on the [Ratpack][] project.
 Requirements
 ------------
 
-Simple Dynamic Modules is required in version 0.5+.
+Simple Dynamic Modules for Groovy is required in version 0.5+.
 
 http://code.google.com/p/simple-dm/
 
