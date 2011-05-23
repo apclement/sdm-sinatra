@@ -2,13 +2,14 @@ sdm-sinatra
 =======
 
 Ruby Sinatra like micro framework for Simple Dynamic Modules for Groovy.
-The SDM module is based on the Ratpack project.
+The SDM module is based on the [Ratpack][] project.
 [Ratpack]: https://github.com/bleedingwolf/Ratpack
 
 Requirements
 ------------
 
-Simple Dynamic Modules is required in version 0.5+
+Simple Dynamic Modules is required in version 0.5+.
+
 http://code.google.com/p/simple-dm/
 
 Getting Started
