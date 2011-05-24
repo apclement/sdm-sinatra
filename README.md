@@ -23,6 +23,7 @@ Getting Started
 	    "Hello World!"
 	}
 	
+        // Use scope 'sinatra' in case you want, for example, mix multiple DSLs
 	sinatra {
 		get '/hu', {
 			"Hello World!!!!"
