@@ -1,4 +1,4 @@
-package org.sdm.sinatra;
+package org.simpledm.sinatra;
 
 import java.util.List;
 
@@ -19,7 +19,7 @@ class SinatraMixin {
 
     def orgSdmSinatraConfigure() {
 		metaClass.sinatra = orgSdmSinatra
-		metaClass.'org.sdm.sinatra' = orgSdmSinatra	
+		metaClass.'org.simpledm.sinatra' = orgSdmSinatra	
     }
 
     def orgSdmSinatraServe() {
